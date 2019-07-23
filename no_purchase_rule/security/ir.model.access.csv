@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_no_purchase_rule_no_purchase_rule,no_purchase_rule.no_purchase_rule,model_no_purchase_rule_no_purchase_rule,,1,0,0,0
