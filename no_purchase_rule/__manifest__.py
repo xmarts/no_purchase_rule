@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "no_purchase_rule",
+    'name': "Add Purchase Rule on Sale",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Cambia la regla de compra para que solo se ejecute cuando no hay disponible en stock""",
 
     'description': """
-        Long description of module's purpose
+
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "Xmarts",
+    'website': "https://xmarts.com.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/12.0/odoo/addons/base/data/ir_module_category_data.xml
